@@ -9,7 +9,7 @@ int main()
     if(i%4==1)
        {
            cout<<(char)i<<" ";
-       }
+       }//h
     else
         {
             cout<<(char)(i+32)<<" ";
